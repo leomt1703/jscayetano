@@ -21,7 +21,7 @@ class TitlesManager {
       return this.titles;
     }
 
-    const titlesURL = 'https://raw.githubusercontent.com/leomt1703/jscayetano/main/titles';
+    const titlesURL = 'https://raw.githubusercontent.com/leomt1703/jscayetano/main/docs/titles';
 
     try {
       const response = await fetch(titlesURL);
@@ -63,7 +63,7 @@ class TitlesManager {
 
     // Crear el elemento de la imagen
     const img = document.createElement('img');
-    img.src = 'https://github.com/leomt1703/jscayetano/blob/main/cinta%20rosada.png?raw=true';
+    img.src = 'https://github.com/leomt1703/jscayetano/blob/main/docs/cinta%20rosada.png?raw=true';
     img.style.position = 'fixed'; // Cambiar a posición fija
     img.style.top = '-6.5%';
     img.style.left = '0%';
