@@ -2,7 +2,7 @@
 // @name         Jscayetano
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Colocar un moñito a la cayetano y ponerle un título decoroso que cambie
+// @description  Colocar un moñito al portal de la cayetano y ponerle un título decoroso que cambie :D
 // @author       leo
 // @match        https://portalmatricula.cayetano.pe/*
 // @grant        GM_addStyle
