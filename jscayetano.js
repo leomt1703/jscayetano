@@ -63,7 +63,7 @@ class TitlesManager {
 
     // Crear el elemento de la imagen
     const img = document.createElement('img');
-    img.src = 'https://i.postimg.cc/RC64h7PP/gratis-png-ilustracion-de-la-cinta-rosada-cinta-rosada-lazo-de-la-cinta-rosada-cordon-de-nudo-hermos.png';
+    img.src = 'https://github.com/leomt1703/jscayetano/blob/main/cinta%20rosada.png?raw=true';
     img.style.position = 'fixed'; // Cambiar a posición fija
     img.style.top = '-6.5%';
     img.style.left = '0%';
