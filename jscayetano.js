@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Imagen en esquina
+// @name         Jscayetano
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Colocar un moñito a la cayetano y ponerle un título decoroso que cambie
